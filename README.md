@@ -1,4 +1,4 @@
-# ulbi
+# Vue 3 post app 
 
 ## Project setup
 ```
